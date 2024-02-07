@@ -1,0 +1,38 @@
+[
+    {
+        "code": 1,
+        "activity": "Do task 1",
+        "startDate": "2024-01-01",
+        "endDate": "2024-01-10"
+    },
+    {
+        "code": 2,
+        "activity": "Do task 2",
+        "startDate": "2024-01-02",
+        "endDate": "2024-01-22"
+    },
+    {
+        "code": 3,
+        "activity": "Do task 3",
+        "startDate": "2024-04-02",
+        "endDate": "2024-06-12"
+    },
+    {
+        "code": 4,
+        "activity": "Do task 4",
+        "startDate": "2024-01-03",
+        "endDate": "2024-01-15"
+    },
+    {
+        "code": 5,
+        "activity": "Do task 5",
+        "startDate": "2024-01-01",
+        "endDate": "2024-01-17"
+    },
+    {
+        "code": 6,
+        "activity": "Do task 6",
+        "startDate": "2024-01-03",
+        "endDate": "2024-03-29"
+    }
+]
