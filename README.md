@@ -2,7 +2,7 @@
 
 This project is a simple Kanban board application built with React and the React Beautiful DnD library, allowing users to manage tasks across different stages of completion.
 
-![Demo GIF]([URL_DO_SEU_GIF](https://github.com/BrunoTaconi/kanban-project/blob/main/demo/kanban.gif))
+![Demo GIF](https://github.com/BrunoTaconi/kanban-project/blob/main/demo/kanban.gif)
 
 ## Features
 
